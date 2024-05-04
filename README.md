@@ -27,7 +27,7 @@ Password Generator is a simple tool that helps you create strong and secure pass
 https://divya-chaudhary-password-generator.netlify.app
 
 
-## Screenshots
+## Screenshot
 
 ![Screenshot 2024-05-04 193646](https://github.com/DivyaChaudhary07/Password_Generator/assets/161328874/83644b5e-fce9-46ac-8502-3289cbf4b6cf)
 
